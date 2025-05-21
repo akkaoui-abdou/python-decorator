@@ -116,7 +116,7 @@ print(greet())
 
 **Output:**
 ```
-Hello
+<b><i>Hello</i></b>
 ```
 
 ---
